@@ -12,3 +12,4 @@ Roll: CH.SC.U4CSE24130
 - [Experiment 4](https://github.com/sarvan-2187/23CSE301-ML-LAB/tree/main/04-Support-Vector-Machines)
 - [Experiment 5](https://github.com/sarvan-2187/23CSE301-ML-LAB/tree/main/05-K-Nearest-Neighbours)
 - [Experiment 6](https://github.com/sarvan-2187/23CSE301-ML-LAB/tree/main/06-K-Means-Clustering)
+- [Experiment 7](https://github.com/sarvan-2187/23CSE301-ML-LAB/tree/main/07-Principal-Component-Analysis)
